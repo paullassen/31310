@@ -1,0 +1,4 @@
+# Ignore Matlab autosaves and code generation
+*.autosave
+*.slxc
+slprj/
